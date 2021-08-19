@@ -10,7 +10,7 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on software projects
 - 🤔 I’m looking for help with 🤔
 - 💬 Ask me about anything in general about software development and programming languages
-- 📫 How to reach me: [email](zorlog@usi.ch)
+- 📫 How to reach me: [my_email](zorlog@usi.ch)
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
